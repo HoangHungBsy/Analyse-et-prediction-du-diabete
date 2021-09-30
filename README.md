@@ -9,17 +9,15 @@ L’objectif est de prédire si oui ou non un patient est atteint du diabète à
 
 i. Effectuer un prétraitement pour uniformiser les données traitées.
 
-ii. Visualiser les données pour montrer le degré d’influence d’un attribut par rapport à la classe finale. Ceci est facilement réalisable grâce à matplot.pyplot et pyplot scatter. (Voir la suite de ce notebook). Réaliser
-plusieurs visualisations pour les variables de votre choix.
+ii. Visualiser les données pour montrer le degré d’influence d’un attribut par rapport à la classe finale. 
 
 iii. Choisir les variables d’entrainement / la variable cible.
 
-iv. Découper votre jeu de données en deux parties : entrainement et teste.
+iv. Découper le jeu de données en deux parties.
 
-v. Mettre en œuvre l’algorithme d’apprentissage : arbre de décision. Calculer le taux d’accuracy et son temps d’exécution. (Vous pouvez utiliser la lib sklearn).
+v. Mettre en œuvre l’algorithme d’apprentissage : arbre de décision. Calculer le taux d’accuracy.
 
-vi. Mettre en œuvre l’algorithme d’apprentissage : KNN. Calculer le taux d’accuracy et son temps d’exécution. (Sans utiliser la lib sklearn).
+vi. Mettre en œuvre l’algorithme d’apprentissage : KNN. Calculer le taux d’accuracy.
 
 vii. Faire des comparaisons entre les deux approches knn et arbre de décision en temps d’exécution et en taux d’accuracy.
 
-viii. (Question bonus) complétez votre étude comparative par des approches de votre choix, réseaux de neurones, SVM, ou autre...
