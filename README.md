@@ -1,9 +1,10 @@
 # Analyse-et-prediction-du-diabete
-OVER VIEW
+
+**_OVER VIEW_**
 Dans le cadre de ce mini projet, j'ai mené à réaliser un programme complet s’appuyant sur les techniques du machine learning et de data mining, sous forme de Notebook python. 
 L’objectif est de prédire si oui ou non un patient est atteint du diabète à partir de certains attributs : âge, nombre de grossesses, taux d’insuline…etc.
 
-Plan de réalisation
+**PLAN DE REALISATION**
 i. Effectuer un prétraitement pour uniformiser les données traitées.
 
 ii. Visualiser les données pour montrer le degré d’influence d’un attribut par rapport à la classe finale. Ceci est facilement réalisable grâce à matplot.pyplot et pyplot scatter. (Voir la suite de ce notebook). Réaliser
